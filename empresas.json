@@ -1,0 +1,40 @@
+{
+    "empresas": [
+      {
+        "nome": "InovaTech Solutions",
+        "tipo": "Tecnologia",
+        "ano_fundacao": 2010,
+        "cidade": "CidadeTech",
+        "pais": "Fictícia"
+      },
+      {
+        "nome": "EcoGreen Innovations",
+        "tipo": "Sustentabilidade",
+        "ano_fundacao": 2008,
+        "cidade": "GreenVille",
+        "pais": "Imaginária"
+      },
+      {
+        "nome": "GlobalCom Connections",
+        "tipo": "Comunicações",
+        "ano_fundacao": 2005,
+        "cidade": "MetroCity",
+        "pais": "Ficção"
+      },
+      {
+        "nome": "BioHealth Solutions",
+        "tipo": "Saúde",
+        "ano_fundacao": 2012,
+        "cidade": "MedTown",
+        "pais": "Fantasia"
+      },
+      {
+        "nome": "FutureFashion Innovators",
+        "tipo": "Moda",
+        "ano_fundacao": 2015,
+        "cidade": "StyleVista",
+        "pais": "Imaginário"
+      }
+    ]
+  }
+  
